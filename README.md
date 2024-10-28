@@ -15,5 +15,5 @@ https://cdn.jsdelivr.net/gh/LumiCorn/Pic-Bed/[filename]
 
 -----
 
-注意：上传的图片或其他文件收到知识产权的保护。请阅读LICENSE文件了解更多。
+注意：上传的图片或其他文件受到知识产权的保护。请阅读LICENSE文件了解更多。
 
